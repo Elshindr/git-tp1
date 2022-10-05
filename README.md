@@ -7,4 +7,4 @@ Les caractéristiques du Langage Java:
 - il est multitheadé
 
 ## Documentation
-Lien vers la documentation officielle: [Documentation](https://docs.oracle.com/javase/7/docs/api/)
+Lien vers la <span style="color:#ff0000">documentation officielle</span> : [Documentation](https://docs.oracle.com/javase/7/docs/api/)
